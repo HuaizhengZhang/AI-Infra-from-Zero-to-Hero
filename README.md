@@ -100,7 +100,7 @@ A curated list of research in machine learning systems. Link to the code if avai
 - Machine Learning Systems: Designs that scale [[Website]](https://www.manning.com/books/machine-learning-systems)
 - Trust in Machine Learning [[Website]](https://www.manning.com/books/trust-in-machine-learning)
 - Automated Machine Learning in Action [[Website]](https://www.manning.com/books/automated-machine-learning-in-action)
-
+- Machine Learning Systems: Principles and Practices of Engineering Artificially Intelligent Systems [[Website]](https://mlsysbook.ai/)
 ## Video
 
 - ScalaDML2020: Learn from the best minds in the machine learning community. [[Video]](https://info.matroid.com/scaledml-media-archive-preview)
