@@ -169,4 +169,5 @@ A curated list of research in machine learning systems. Link to the code if avai
 - Deploying a Machine Learning Model as a REST API [[Blog]](https://towardsdatascience.com/deploying-a-machine-learning-model-as-a-rest-api-4a03b865c166)
 - Colossal-AI: A Unified Deep Learning System for Big Model Era [[Blog]](https://medium.com/@hpcaitech/train-18-billion-parameter-gpt-models-with-a-single-gpu-on-your-personal-computer-8793d08332dc) [[GitHub]](https://github.com/hpcaitech/ColossalAI)
 - Data Engineer Roadmap [[Scaler Blogs]](https://www.scaler.com/blog/data-engineer-roadmap/)
+- Build an ML Framework from Scratch [[Blog]](https://haifengjin.com/build-an-ml-framework-from-scratch/) [[GitHub]](https://github.com/haifeng-jin/readable-ml-framework)
 
